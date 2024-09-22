@@ -4,7 +4,7 @@
 Programador de aplicaciones y robots
 ---------------------------------
 
-Llevo dos años programando seriamente y he descubierto mi gran pasión. Me encanta programar en distintos lenguajes y con diferentes finalidades.
+Llevo un tiempo ya programando y he descubierto mi gran pasión. Me encanta programar en distintos lenguajes y con diferentes finalidades.
 
 * 🌍  Soy de España
 * 🖥️  Mi web de portfolio es [esta](http://Jorexbp.github.io)
