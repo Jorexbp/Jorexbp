@@ -31,8 +31,8 @@ Llevo un tiempo ya programando y he descubierto mi gran pasión. Me encanta prog
 
 <p align="center">
 <a href="https://github.com/Jorexbp">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devch-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devch-tech&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jorexbp&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jorexbp&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
